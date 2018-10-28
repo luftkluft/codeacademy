@@ -1,4 +1,3 @@
 Ссылка о прохождении курса Ruby:
-https://www.codecademy.com/courses/learn-ruby/lessons/banking-on-ruby/exercises/well-done?action=resume_content_item
 
 https://www.codecademy.com/luftkluft#completed
